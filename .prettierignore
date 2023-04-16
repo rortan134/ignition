@@ -1,0 +1,7 @@
+.next
+node_modules/**
+public
+.env
+package.json
+pnpm-lock.yaml
+next-env.d.ts
